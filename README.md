@@ -18,10 +18,10 @@ Mis Skills :
 
 Soft skills :
 
-♦ Trabajo en equipo 
-♦ Resolucion de conflictos 
-♦ Capacidad de adaptacion 
-♦ Aprendisaje continuo
+ ♦ Trabajo en equipo 
+ ♦ Resolucion de conflictos 
+ ♦ Capacidad de adaptacion 
+ ♦ Aprendisaje continuo
 
 Actualmente soy egresado de Henry, donde complete satisfactoriamente el bootcamp de Full Stack Developer. Donde aprendí muchas cosas interesantes que me ayudaron a resolver conflictos y a trabajar en equipo tambien tuve la posibilidad de ser parte de Henry como Ta (Teaching Assistant).
 
